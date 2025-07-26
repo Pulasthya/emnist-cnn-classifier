@@ -153,30 +153,7 @@ The project includes comprehensive visualizations:
 - **ROC curves** for multi-class evaluation
 - **Pixel intensity distributions**
 
-## 🎓 Skills Demonstrated
-
-### Machine Learning & Deep Learning
-- ✅ **CNN Architecture Design**
-- ✅ **Regularization Techniques**
-- ✅ **Transfer Learning Concepts**
-- ✅ **Model Evaluation & Validation**
-- ✅ **Hyperparameter Optimization**
-
-### Programming & Tools
-- ✅ **PyTorch Framework**
-- ✅ **Python Data Science Stack**
-- ✅ **GPU/MPS Acceleration**
-- ✅ **Object-Oriented Programming**
-- ✅ **Version Control & Documentation**
-
-### Data Science
-- ✅ **Large Dataset Handling** (100k+ samples)
-- ✅ **Statistical Analysis**
-- ✅ **Data Visualization**
-- ✅ **Performance Metrics**
-- ✅ **Experimental Design**
-
-## 🔮 Future Improvements
+## Future Improvements
 
 - **Data Augmentation**: Rotation, scaling, noise injection
 - **Advanced Architectures**: ResNet, DenseNet implementations
